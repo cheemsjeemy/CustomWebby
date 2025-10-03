@@ -1,0 +1,21 @@
+{
+    "bio": "YO WASSUP!!!",
+    "links": [
+      {"name": "Gallery", "url": "#"},
+      {"name": "Shop", "url": "#"},
+      {"name": "Master classes", "url": "#"},
+      {"name": "Blog", "url": "#"}
+    ],
+    "blog": {
+      "title": "Dis is da title",
+      "description": "eyyy you found da description!!",
+      "content": "I dont even know who i am to begin with....",
+      "comments": 0
+    },
+    "footer": {
+      "logo": "images/logo.jpg",
+      "video": "videos/nevergonnagiveyouup.mp4",
+      "title": "DO NOT CLICK!"
+    }
+  }
+  
